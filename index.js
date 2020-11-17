@@ -126,7 +126,7 @@ client.on('message', message => {
                     .setTitle("<:pasta:776878312341372948> **Ticket Suporte**,")
                     .setColor("#cd3")
                     .setDescription("**No ticket, você poderá conversar em particular com algum membro da equipe\nCom isso, você terá mais privacidade e poderá ficar a vontade!\n\nPara fechar um ticket, reaja em :unlock:**")
-                    .setFooter("System Store")
+                    .setFooter("Random Shop")
   
                     chan.send(embedTicketOpen).then( async msg => {
                         await msg.react("🔒")
