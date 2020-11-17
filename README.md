@@ -1,0 +1,1 @@
+# Bot-feito-para-Random-Shop
